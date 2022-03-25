@@ -1,0 +1,74 @@
+AQS_FID,Site.ID,STATE,COUNTY,SITE_LATITUDE,SITE_LONGITUDE,AQS_PARAMETER_DESC,Source
+1,400019009,Oklahoma,Adair,35.750735,-94.669697,Sulfur dioxide,AQS
+2,400470555,Oklahoma,Garfield,36.512363,-97.845959,Sulfur dioxide,AQS
+3,400710604,Oklahoma,Kay,36.697186,-97.08135,Sulfur dioxide,AQS
+4,400970188,Oklahoma,Mayes,36.228993,-95.269196,Sulfur dioxide,AQS
+5,401010167,Oklahoma,Muskogee,35.793134,-95.302235,Sulfur dioxide,AQS
+6,401010170,Oklahoma,Muskogee,35.775813,-95.287067,Sulfur dioxide,AQS
+7,401091037,Oklahoma,Oklahoma,35.614131,-97.475083,Sulfur dioxide,AQS
+8,401430175,Oklahoma,Tulsa,36.149877,-96.011664,Sulfur dioxide,AQS
+9,401430179,Oklahoma,Tulsa,36.15483,-96.015845,Sulfur dioxide,AQS
+10,401430235,Oklahoma,Tulsa,36.126945,-95.998941,Sulfur dioxide,AQS
+11,401431127,Oklahoma,Tulsa,36.204902,-95.976537,Sulfur dioxide,AQS
+12,350010023,New Mexico,Berlillo,35.1343,-106.5852,Sulfur dioxide,AQS
+13,350450009,New Mexico,San Juan,36.742227,-107.977567,Sulfur dioxide,AQS
+14,350451005,New Mexico,San Juan,36.796667,-108.473138,Sulfur dioxide,AQS
+15,350451233,New Mexico,San Juan,36.8071,-108.69523,Sulfur dioxide,AQS
+16,280490020,Mississippi,Hinds,32.329111,-90.182722,Sulfur dioxide,AQS
+17,280590006,Mississippi,Jackson,30.378287,-88.53393,Sulfur dioxide,AQS
+18,220150008,Louisiana,Bossier,32.535293,-93.747041,Sulfur dioxide,AQS
+19,220190008,Louisiana,Calcasieu,30.262604,-93.285084,Sulfur dioxide,AQS
+20,220190011,Louisiana,Calcasieu,30.103724,-93.285598,Sulfur dioxide,AQS
+21,220330009,Louisiana,East Baton Rouge,30.461981,-91.179219,Sulfur dioxide,AQS
+22,220330015,Louisiana,East Baton Rouge,30.577617,-91.235323,Sulfur dioxide,AQS
+23,220870004,Louisiana,St. Berrd,29.939614,-89.923883,Sulfur dioxide,AQS
+24,220870007,Louisiana,St. Berrd,29.943164,-89.97625,Sulfur dioxide,AQS
+25,220890006,Louisiana,St. Charles,29.997366,-90.411185,Sulfur dioxide,AQS
+26,220930003,Louisiana,St. James,30.052341,-90.670833,Sulfur dioxide,AQS
+27,221210001,Louisiana,West Baton Rouge,30.500642,-91.213556,Sulfur dioxide,AQS
+28,221210002,Louisiana,West Baton Rouge,30.327723,-91.284108,Sulfur dioxide,AQS
+29,51190007,Arkansas,Pulaski,34.756189,-92.281296,Sulfur dioxide,AQS
+30,51390006,Arkansas,Union,33.220563,-92.672263,Sulfur dioxide,AQS
+31,10730023,Alabama,Jefferson,33.553056,-86.815,Sulfur dioxide,AQS
+32,10731003,Alabama,Jefferson,33.485556,-86.915,Sulfur dioxide,AQS
+33,10736004,Alabama,Jefferson,33.565278,-86.796389,Sulfur dioxide,AQS
+34,10970003,Alabama,Mobile,30.770181,-88.087761,Sulfur dioxide,AQS
+35,11179001,Alabama,Shelby,33.0928,-86.8072,Sulfur dioxide,AQS
+36,480290059,Texas,Bexar,29.275381,-98.311692,Sulfur dioxide,AQS
+37,480291080,Texas,Bexar,29.352911,-98.332814,Sulfur dioxide,AQS
+38,481130069,Texas,Dallas,32.820061,-96.860117,Sulfur dioxide,AQS
+39,481390016,Texas,Ellis,32.482083,-97.026899,Sulfur dioxide,AQS
+40,481391044,Texas,Ellis,32.175417,-96.870189,Sulfur dioxide,AQS
+41,481410037,Texas,El Paso,31.768286,-106.501243,Sulfur dioxide,AQS
+42,481410044,Texas,El Paso,31.765685,-106.455227,Sulfur dioxide,AQS
+43,481410058,Texas,El Paso,31.893913,-106.425827,Sulfur dioxide,AQS
+44,481670005,Texas,Galveston,29.385234,-94.93152,Sulfur dioxide,AQS
+45,481830001,Texas,Gregg,32.378696,-94.711813,Sulfur dioxide,AQS
+46,482010046,Texas,Harris,29.828086,-95.284096,Sulfur dioxide,AQS
+47,482010051,Texas,Harris,29.623889,-95.474167,Sulfur dioxide,AQS
+48,482010062,Texas,Harris,29.625556,-95.267222,Sulfur dioxide,AQS
+49,482010416,Texas,Harris,29.686389,-95.294722,Sulfur dioxide,AQS
+50,482011017,Texas,Harris,29.823319,-94.983786,Sulfur dioxide,AQS
+51,482011035,Texas,Harris,29.733726,-95.257593,Sulfur dioxide,AQS
+52,482011039,Texas,Harris,29.670025,-95.128508,Sulfur dioxide,AQS
+53,482011050,Texas,Harris,29.583047,-95.015544,Sulfur dioxide,AQS
+54,482031079,Texas,Harrison,32.470228,-94.481595,Sulfur dioxide,AQS
+55,482271072,Texas,Howard,32.280422,-101.407137,Sulfur dioxide,AQS
+56,482331073,Texas,Hutchinson,35.6762,-101.4401,Sulfur dioxide,AQS
+57,482450009,Texas,Jefferson,30.036422,-94.071061,Sulfur dioxide,AQS
+58,482450011,Texas,Jefferson,29.897516,-93.991084,Sulfur dioxide,AQS
+59,482451071,Texas,Jefferson,29.8442,-93.9652,Sulfur dioxide,AQS
+60,482570005,Texas,Kaufman,32.564968,-96.317687,Sulfur dioxide,AQS
+61,483091037,Texas,McLenn,31.653086,-97.070704,Sulfur dioxide,AQS
+62,483311075,Texas,Milam,30.569534,-97.076294,Sulfur dioxide,AQS
+63,483491051,Texas,varro,32.031934,-96.399141,Sulfur dioxide,AQS
+64,483491081,Texas,varro,31.9041,-96.352,Sulfur dioxide,AQS
+65,483550025,Texas,Nueces,27.76534,-97.434262,Sulfur dioxide,AQS
+66,483550026,Texas,Nueces,27.832413,-97.555387,Sulfur dioxide,AQS
+67,483550032,Texas,Nueces,27.804489,-97.431553,Sulfur dioxide,AQS
+68,483611083,Texas,Orange,30.153675,-93.725897,Sulfur dioxide,AQS
+69,483751025,Texas,Potter,35.236736,-101.787405,Sulfur dioxide,AQS
+70,483751077,Texas,Potter,35.3165,-101.7418,Sulfur dioxide,AQS
+71,483951076,Texas,Robertson,31.168889,-96.481944,Sulfur dioxide,AQS
+72,484491078,Texas,Titus,33.0752,-94.8474,Sulfur dioxide,AQS
+73,484530014,Texas,Travis,30.354944,-97.761803,Sulfur dioxide,AQS
